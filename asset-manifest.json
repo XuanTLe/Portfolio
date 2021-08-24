@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7c49d2df.chunk.css",
+    "main.js": "/Portfolio/static/js/main.bbdb8d65.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bbdb8d65.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.def5ed6d.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.def5ed6d.js.map",
+    "static/js/2.b74dab0e.chunk.js": "/Portfolio/static/js/2.b74dab0e.chunk.js",
+    "static/js/2.b74dab0e.chunk.js.map": "/Portfolio/static/js/2.b74dab0e.chunk.js.map",
+    "static/js/3.9f408d43.chunk.js": "/Portfolio/static/js/3.9f408d43.chunk.js",
+    "static/js/3.9f408d43.chunk.js.map": "/Portfolio/static/js/3.9f408d43.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.7c49d2df.chunk.css.map": "/Portfolio/static/css/main.7c49d2df.chunk.css.map",
+    "static/js/2.b74dab0e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b74dab0e.chunk.js.LICENSE.txt",
+    "static/media/avatar.14a20e12.jpeg": "/Portfolio/static/media/avatar.14a20e12.jpeg",
+    "static/media/ghibli.b29bb5f8.jpg": "/Portfolio/static/media/ghibli.b29bb5f8.jpg",
+    "static/media/git.8028c6b8.png": "/Portfolio/static/media/git.8028c6b8.png",
+    "static/media/App.css": "/Portfolio/static/media/homePic2.248054f9.jpg",
+    "static/media/task.8c4a3c50.png": "/Portfolio/static/media/task.8c4a3c50.png",
+    "static/media/weather.d1e94b0c.png": "/Portfolio/static/media/weather.d1e94b0c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def5ed6d.js",
+    "static/js/2.b74dab0e.chunk.js",
+    "static/css/main.7c49d2df.chunk.css",
+    "static/js/main.bbdb8d65.chunk.js"
+  ]
+}
